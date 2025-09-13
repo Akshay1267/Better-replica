@@ -65,7 +65,7 @@ export default function StartPage() {
       {/* Info Box */}
       <div className="mt-10 bg-green-50 p-6 rounded-lg w-full max-w-lg">
         <p className="text-gray-700 mb-4">
-          After a few questions, you’ll unlock:
+          After a few questions, you'll unlock:
         </p>
         <ul className="space-y-2 text-gray-700">
           <li className="flex items-center gap-2">✅ Custom mortgage rates</li>

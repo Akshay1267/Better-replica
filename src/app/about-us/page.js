@@ -11,7 +11,7 @@ export default function AboutUs() {
             Our mission
           </h2>
           <h1 className="text-3xl md:text-4xl font-bold text-gray-700 leading-snug">
-            We’re making homeownership simpler, faster —{" "}
+            We're making homeownership simpler, faster —{" "}
             <br className="hidden md:block" />
             and most importantly, more accessible for all Americans.
           </h1>

@@ -213,7 +213,7 @@ export default function MortgageCalculator() {
         </button>
 
         <p className="text-gray-700 text-xs text-center mt-2 px-3">
-          ...in as little as 3 minutes – <br />
+          ...in as little as 3 minutes  <br />
           no credit impact
         </p>
       </div>
