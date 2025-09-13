@@ -6,7 +6,7 @@ It replicates the design and basic functionality of four pages from **Better.com
 ---
 
 ## 🚀 Live Demo
-[View Deployment]([https://your-vercel-link.vercel.app](https://better-replica-mm3r.vercel.app/))
+[View Deployment]([(https://better-replica-mm3r.vercel.app/)])
 
 ---
 
